@@ -54,7 +54,7 @@ function Skills() {
                 <span>This is my Skills</span>
                 <div className="des" ref={(el) => el && divs.current.push(el)}>
                     {/* 20 */}
-                    <p> I often use Reactjs framework to build my projects with the support of tailwindcss, hook and shadcn/ui</p>
+                    <p> I often use Reactjs and Nextjs framework to build my projects with the support of tailwindcss, hook and shadcn/ui</p>
 
                 </div>
             </div>

@@ -17,20 +17,15 @@ function Home() {
                     Even though I don't have much work experience, I try to develop myself so that I can work together with your company.
                 </div>
 
-                <a href="/democv.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
+                <a href="/cv2.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
                     Download My CV
                 </a>
             </div>
             <div className="avatar">
                 <div className="card">
 
-                    <img src="/logo192.png" alt="" />
-                    {/* <div className="info">
-                        <div>Developer</div>
-                        <div>VietNamese</div>
-                        <div>03/12</div>
-                        <div>Male</div>
-                    </div> */}
+                    <img src="/avatar.jpg" alt="" />
+
                 </div>
             </div>
         </section>

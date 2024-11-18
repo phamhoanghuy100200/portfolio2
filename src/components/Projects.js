@@ -7,29 +7,29 @@ function Projects() {
     const [listProjects] = useState([
         {
             name: 'AI chatbot',
-            des: 'To use chatgpt api to create conversation or code generation with ai in this website.',
-            language: 'HTML5, tailwind, React JS, shadcn, typescript, Nextjs...',
+            des: 'Building User interface using HTML, tailwindcss and Nextjs to interact with user. To create conversation or code generation through Chatgpt API, Responsive across a variety of browsers and devices.',
+            language: 'HTML, tailwind, typescript, Nextjs,...',
             link: "https://ai-saas-seven-sigma.vercel.app/",
             images: '/project4.PNG'
         },
         {
             name: 'Calendar',
-            des: 'To save schedule personel',
-            language: 'HTML5, tailwind, React JS,',
+            des: 'Building User interface using HTML, tailwindcss and Reactjs to interact with user. To use Dayjs library  to parse, validate, manipulate, and display dates and times. To save data of user on local storage',
+            language: 'HTML, tailwind, React JS,...',
             link: "https://calendar-phi-plum.vercel.app/",
             images: '/project2.PNG'
         },
         {
             name: 'Note',
-            des: 'to create page to save infomation you want.(notion clone)',
-            language: 'HTML5, tailwind, Nextjs, convex...',
+            des: 'Building User interface using HTML, tailwindcss, shadcn/ui, to interact with user. To use convex platform that replaces my backend and database, Log in and save data user with cleck and realtime with convex. ',
+            language: 'HTML, tailwind, Nextjs, convex,...',
             link: "https://note-nine-ecru.vercel.app/",
             images: '/project3.PNG'
         },
         {
             name: 'duolingo clone',
-            des: 'to create lessons or learn it.',
-            language: 'HTML5, tailwind, Nextjs,',
+            des: 'to create, delete, edit lessons on the admin page or to learn it on the client page. This project help me to practice and develop my skills about interface, I self-study on YouTube.',
+            language: 'HTML, tailwind, Nextjs,...',
             link: "https://duolingo-huypham.vercel.app/",
             images: '/project1.PNG'
         },

@@ -162,6 +162,12 @@ section.home {
       width: min(100%, 400px);
       transition: 0.5s;
 
+      & img {
+        width: 70%;
+        object-fit: cover;
+        object-position: top;
+        border-radius: 50%;
+      }
 
       /* &:hover {
         box-shadow: 0 150px 150px #4c7b75;
@@ -196,8 +202,7 @@ section.home {
 
       }
 
-      /* & .info {
-        background-color: #eee;
+      & .info {
         color: #010824;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -211,7 +216,7 @@ section.home {
         div:nth-child(3) {
           font-weight: bold;
         }
-      } */
+      }
     }
   }
 
